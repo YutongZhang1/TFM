@@ -20,7 +20,9 @@ The Chinese-to-Spanish dataset used in this experiment was sourced from the Unit
 *** 
 ### References
 [1]Tang, Y., Tran, C., Li, X., Chen, P.-J., Goyal, N., Chaudhary, V., Gu, J., & Fan, A. (2020). Multilingual translation with extensible multilingual pretraining and finetuning. Facebook AI Research. Retrieved from https://arxiv.org/abs/2008.00401\
+
 [2]Fan, A., Bhosale, S., Schwenk, H., Ma, Z., El-Kishky, A., Goyal, S., Baines, M., Celebi, O., Wenzek, G., Chaudhary, V., Goyal, N., Birch, T., Liptchinsky, V., Edunov, S., Grave, E., Auli, M., & Joulin, A. (2020). Beyond English-centric multilingual machine translation. Facebook AI Research. https://arxiv.org/abs/2010.11125
+
 [3]Ziemski, M., Junczys-Dowmunt, M., & Pouliquen, B. (2016). The United Nations Parallel Corpus v1.0. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020). European Language Resources Association (ELRA).
 
 
