@@ -21,7 +21,22 @@ epochs = [1, 2, 3, 4]
 plt.figure(figsize=(10, 6))
 plt.plot(epochs, training_loss, label='Training Loss', marker='o')
 plt.plot(epochs, validation_loss, label='Validation Loss', marker='o')
-plt.title('Fine-tuning Small Dataset')
+plt.title('Fine-tuning Small Subset')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+training_loss = [0.4774, 0.3864, 0.3226, 0.274]
+validation_loss = [0.510622, 0.493349, 0.485039, 0.486232]
+epochs = [1, 2, 3, 4]
+
+# Plotting the training and validation loss
+plt.figure(figsize=(10, 6))
+plt.plot(epochs, training_loss, label='Training Loss', marker='o')
+plt.plot(epochs, validation_loss, label='Validation Loss', marker='o')
+plt.title('Fine-tuning Large Subset')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.legend()
