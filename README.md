@@ -1,5 +1,5 @@
 # TFM
-Code repository for TFM, Master in Theoretical and Applied Linguistics, Pompeu Fabra University. Code created by Yutong Zhang.
+Code repository for TFM, Master in Theoretical and Applied Linguistics, Pompeu Fabra University. Code created by Yutong Zhang, supervised by Sergi Álvarez-Vidal.
 
 *** 
 ### Experiment goal
