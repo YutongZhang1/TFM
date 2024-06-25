@@ -11,8 +11,6 @@ Building on the foundation established by the initial research objectives, this 
 ### Requirements
 The code is written in python 3
 
-Packages and libraries required:
-
 *** 
 ### Data
 The Chinese-to-Spanish dataset used in this experiment was sourced from the United Nations Parallel Corpus v1.0[5].
